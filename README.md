@@ -1,3 +1,5 @@
+# MP3-Tag-Reader
+
 📘 MP3 Tag Reader & Editor – Explanation
 
 This project is a command-line based utility written in C that reads and modifies metadata (ID3v1 tags) embedded in MP3 audio files. These tags store information such as the song title, artist name, album, year of release, and genre. The objective of this project is to explore binary file manipulation by working directly with the last 128 bytes of an MP3 file, where ID3v1 tags are located.
